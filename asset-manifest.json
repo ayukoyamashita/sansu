@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sansu/static/css/main.2cb9a270.css",
+    "main.js": "/sansu/static/js/main.cdb1b0b7.js",
+    "index.html": "/sansu/index.html",
+    "main.2cb9a270.css.map": "/sansu/static/css/main.2cb9a270.css.map",
+    "main.cdb1b0b7.js.map": "/sansu/static/js/main.cdb1b0b7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2cb9a270.css",
+    "static/js/main.cdb1b0b7.js"
+  ]
+}
