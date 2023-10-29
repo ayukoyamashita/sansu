@@ -1,0 +1,89 @@
+:root {
+  --button-color: #ccc;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+button {
+  text-align: center;
+  background-color: var(--button-color);
+}
+
+.container {
+  max-width: 1024px;
+  margin: auto;
+  font-size: 20px;
+  font-weight: 600;
+  display: flex;
+}
+
+.paperContainer {
+  width: 70%;
+}
+
+.paper {
+  text-align: center;
+  font-size: 100px;
+  margin-bottom: 60px;
+}
+
+.paper .answer {
+  max-width: 200px;
+  border: 1px solid #ccc;
+}
+
+.judgment {
+  text-align: center;
+}
+
+.judgment_text {
+  font-size: 50px;
+  margin-bottom: 50px;
+}
+
+.judgment_next {
+  height: 80px;
+  width: 200px;
+}
+
+.operationPanel {
+  width: 30%;
+}
+
+.tenkey {
+  width: 85%;
+  margin: auto;
+}
+
+.tenkey_numbers {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.tenkey_numbers button {
+  width: 80px;
+  height: 80px;
+}
+
+.tenkey_other {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+  gap: 10px;
+}
+
+.tenkey_other button {
+  height: 80px;
+}
+
+.tenkey_other .delete {
+  width: 40%;
+}
+
+.tenkey_other .answer {
+  width: 60%;
+}
