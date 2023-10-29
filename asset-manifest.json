@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/sansu/static/css/main.2cb9a270.css",
-    "main.js": "/sansu/static/js/main.cdb1b0b7.js",
+    "main.css": "/sansu/static/css/main.c01297c1.css",
+    "main.js": "/sansu/static/js/main.748b8ebf.js",
     "index.html": "/sansu/index.html",
-    "main.2cb9a270.css.map": "/sansu/static/css/main.2cb9a270.css.map",
-    "main.cdb1b0b7.js.map": "/sansu/static/js/main.cdb1b0b7.js.map"
+    "main.c01297c1.css.map": "/sansu/static/css/main.c01297c1.css.map",
+    "main.748b8ebf.js.map": "/sansu/static/js/main.748b8ebf.js.map"
   },
   "entrypoints": [
-    "static/css/main.2cb9a270.css",
-    "static/js/main.cdb1b0b7.js"
+    "static/css/main.c01297c1.css",
+    "static/js/main.748b8ebf.js"
   ]
 }
