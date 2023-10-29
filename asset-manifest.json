@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "/sansu/static/css/main.c01297c1.css",
-    "main.js": "/sansu/static/js/main.748b8ebf.js",
+    "main.css": "/sansu/static/css/main.08a73df5.css",
+    "main.js": "/sansu/static/js/main.0726fe18.js",
+    "static/media/MPLUS1p-Black.ttf": "/sansu/static/media/MPLUS1p-Black.158dd6b8b532a4d0cc6a.ttf",
+    "static/media/MPLUS1p-Medium.ttf": "/sansu/static/media/MPLUS1p-Medium.f77aa296aeb1d3e2900c.ttf",
     "index.html": "/sansu/index.html",
-    "main.c01297c1.css.map": "/sansu/static/css/main.c01297c1.css.map",
-    "main.748b8ebf.js.map": "/sansu/static/js/main.748b8ebf.js.map"
+    "main.08a73df5.css.map": "/sansu/static/css/main.08a73df5.css.map",
+    "main.0726fe18.js.map": "/sansu/static/js/main.0726fe18.js.map"
   },
   "entrypoints": [
-    "static/css/main.c01297c1.css",
-    "static/js/main.748b8ebf.js"
+    "static/css/main.08a73df5.css",
+    "static/js/main.0726fe18.js"
   ]
 }
